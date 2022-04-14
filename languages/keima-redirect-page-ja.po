@@ -1,0 +1,31 @@
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-11-04 17:30+0700\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 2.4.2\n"
+"Language: ja_JP\n"
+"Project-Id-Version: keima redirect page\n"
+"POT-Creation-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+msgid "This plugin needs \"Advanced Custom Fields\" to run. Please <a href=\"https://www.advancedcustomfields.com\" target=\"_blank\">download</a> and activate it before."
+msgstr "このプラグインは「Advanced Custom Fields」を必要とします。<a href=\"https://www.advancedcustomfields.com\" target=\"_blank\">ダウンロード</a>いただき有効化してください。"
+
+msgid "This plugin needs \"Advanced Custom Fields\" to run. Please activate it before."
+msgstr "このプラグインは「Advanced Custom Fields」を必要とします。「Advanced Custom Fields」を有効化してください。"
+
+msgid "Redirect"
+msgstr "リダイレクト"
+
+msgid "Redirect page"
+msgstr "リダイレクトページ"
+
+msgid "Redirect URL"
+msgstr "リダイレクトURL"
+
+msgid "Processing to redirect to the URL below.<br>If the page does not switch after 5 seconds, click the link URL directly."
+msgstr "以下URLにリダイレクトしようとしています。<br>5秒経過してもページが切り替わらない場合には、リンクURLを直接クリックしてください。"
